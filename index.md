@@ -14,5 +14,6 @@ This is a sample fraud detection project which we are submitting as part of the 
 ## Fraud Detection Website
 
 > This is a sample project created by Sajad Kedia which are using for demonstration as part of our assignment.
+<center><img src="assets/img/fraud_detection.jpg "/></center>
 
 
